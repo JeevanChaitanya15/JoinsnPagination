@@ -1,0 +1,1 @@
+ALTER TABLE "user1" ALTER COLUMN "name" SET DATA TYPE varchar(255);
